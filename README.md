@@ -20,14 +20,14 @@ FOCS
   and Michael Saks
 
 - Direct products in communication complexity.  
-  ([ECCC](http://eccc.hpi-web.de/report/2012/143/revision/2/download)).  
+  ([ECCC](http://http://eccc.hpi-web.de/report/2012/143/revision/2/download)).  
   Mark Braverman,
   Anup Rao,
   Omri Weinstein
   and Amir Yehudayoff
 
 - Arithmetic circuits: A chasm at depth three.  
-  ([ECCC](http://eccc.hpi-web.de/report/2013/026/revision/1/download)).  
+  ([ECCC](http://http://eccc.hpi-web.de/report/2013/026/revision/1/download)).  
   Ankit Gupta,
   Pritish Kamath,
   Neeraj Kayal
@@ -60,7 +60,7 @@ FOCS
   and Luca Moscardelli
 
 - Strong LTCs with inverse poly-log rate and constant soundness.  
-  ([ECCC](eccc.hpi-web.de/report/2013/022/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/022/download)).  
   Michael Viderman
 
 - All-or-nothing multicommodity flow problem with bounded fractionality in planar graphs.  
@@ -73,7 +73,7 @@ FOCS
   Thomas Rothvoss
 
 - Common information and unique disjointness.  
-  ([ECCC](eccc.hpi-web.de/report/2013/056/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/056/download)).  
   Gábor Braun,
   and Sebastian Pokutta
 
@@ -190,7 +190,7 @@ FOCS
   and Stefan Szeider
 
 - Explicit Subspace Designs.  
-  ([ECCC](eccc.hpi-web.de/report/2013/060/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/060/download)).  
   Venkatesan Guruswami
   and Swastik Kopparty
 
@@ -236,7 +236,7 @@ FOCS
   Timothy M. Chan
 
 - Extractors for a Constant Number of Independent Sources with Polylogarithmic Min-Entropy.  
-  ([ECCC](http://eccc.hpi-web.de/report/2013/025/revision/1/download)).  
+  ([ECCC](http://http://eccc.hpi-web.de/report/2013/025/revision/1/download)).  
   Xin Li
 
 - Navigating Central Path with Electrical Flows: from Flows to Matchings, and Back.  
@@ -257,14 +257,14 @@ FOCS
   and David R. Wood
 
 - Average Case Lower Bounds for Monotone Switching Networks.  
-  ([ECCC](eccc.hpi-web.de/report/2013/054/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/054/download)).  
   Yuval Filmus,
   Toniann Pitassi,
   Robert Robere
   and Stephen A. Cook
 
 - PCPs via low-degree long code and hardness for constrained hypergraph coloring.  
-  ([ECCC](eccc.hpi-web.de/report/2013/122/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/122/download)).  
   Irit Dinur
   and Venkatesan Guruswami
 
@@ -297,7 +297,7 @@ FOCS
   Jonah Sherman
 
 - Improved Average-Case Lower Bounds for DeMorgan Formula Size.  
-  ([ECCC](eccc.hpi-web.de/report/2013/058/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/058/download)).  
   Ilan Komargodski,
   Ran Raz
   and Avishay Tal
