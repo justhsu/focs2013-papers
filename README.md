@@ -130,7 +130,7 @@ FOCS
   and John Wilmes
 
 - Constant rate PCPs for circuit-SAT with sublinear query complexity.  
-  ([preprint](www.math.ias.edu/~ormeir/papers/pcps_linear_length.pdf)).  
+  ([preprint](http://www.math.ias.edu/~ormeir/papers/pcps_linear_length.pdf)).  
   Eli Ben-Sasson,
   Yohay Kaplan,
   Swastik Kopparty,
@@ -206,7 +206,7 @@ FOCS
   and Sundar Vishwanathan
 
 - Constant-Round Concurrent Zero Knowledge From P-Certificates.  
-  ([IACR](eprint.iacr.org/2012/563.pdf)).  
+  ([IACR](http://eprint.iacr.org/2012/563.pdf)).  
   Kai-Min Chung,
   Huijia Lin
   and Rafael Pass
@@ -363,7 +363,7 @@ FOCS
   and Nikhil Srivastava
 
 - Candidate Indistinguishability Obfuscation and Functional Encryption for all circuits.  
-  ([IACR](eprint.iacr.org/2013/451.pdf)).  
+  ([IACR](http://eprint.iacr.org/2013/451.pdf)).  
   Sanjam Garg,
   Craig Gentry,
   Shai Halevi,
@@ -378,14 +378,14 @@ FOCS
   and Richard Peng
 
 - Simultaneous Resettability from One-Way Functions.  
-  ([preprint](www.cs.cornell.edu/~rafael/papers/focs13srzk.pdf)).  
+  ([preprint](http://www.cs.cornell.edu/~rafael/papers/focs13srzk.pdf)).  
   Kai-Min Chung,
   Rafail Ostrovsky,
   Rafael Pass
   and Ivan Visconti
 
 - Rational Protocol Design: Cryptography Against Incentive-driven Adversaries.  
-  ([arXiv](eprint.iacr.org/2013/496.pdf)).  
+  ([arXiv](http://eprint.iacr.org/2013/496.pdf)).  
   Juan Garay ,
   Jonathan Katz,
   Ueli Maurer,
