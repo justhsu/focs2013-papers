@@ -20,14 +20,14 @@ FOCS
   and Michael Saks
 
 - Direct products in communication complexity.  
-  ([ECCC](http://http://eccc.hpi-web.de/report/2012/143/revision/2/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2012/143/revision/2/download)).  
   Mark Braverman,
   Anup Rao,
   Omri Weinstein
   and Amir Yehudayoff
 
 - Arithmetic circuits: A chasm at depth three.  
-  ([ECCC](http://http://eccc.hpi-web.de/report/2013/026/revision/1/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/026/revision/1/download)).  
   Ankit Gupta,
   Pritish Kamath,
   Neeraj Kayal
@@ -236,7 +236,7 @@ FOCS
   Timothy M. Chan
 
 - Extractors for a Constant Number of Independent Sources with Polylogarithmic Min-Entropy.  
-  ([ECCC](http://http://eccc.hpi-web.de/report/2013/025/revision/1/download)).  
+  ([ECCC](http://eccc.hpi-web.de/report/2013/025/revision/1/download)).  
   Xin Li
 
 - Navigating Central Path with Electrical Flows: from Flows to Matchings, and Back.  
