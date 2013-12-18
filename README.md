@@ -307,7 +307,7 @@ FOCS
   Vitaly Feldman
   and Jan Vondrak
 
-- Towards a better approximation for Sparsest Cut?.  
+- Towards a better approximation for Sparsest Cut?  
   ([arXiv](http://arxiv.org/pdf/1304.3365v1.pdf)).  
   Sanjeev Arora,
   Rong Ge
