@@ -443,7 +443,7 @@ FOCS
   ([preprint](http://www.cs.cornell.edu/~rafael/papers/EnvFriendly-proc.pdf)).  
   Ran Canetti,
   Huijia Lin
-  and Rafael Pass,
+  and Rafael Pass
 
 - Adaptive Seeding in Social Networks.  
   ([preprint](http://www.cs.cornell.edu/~lseeman/Docs%5CAdaptiveSeedingFocs.pdf)).  
